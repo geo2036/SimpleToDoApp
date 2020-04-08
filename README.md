@@ -1,2 +1,0 @@
-# SimpleToDoApp
-Created with CodeSandbox
